@@ -7,6 +7,11 @@ The examples are below. If you have any questions or find any bugs, please conta
 🇧🇷 Arquivo simples com hearder-only para ajudar a animar menus imgui sem bagunçar tanto o codigo. Os exemplos estão abaixo, qualquer duvida ou bug me chame no discord: (bestdmp ou best#0248)
 
 
+### Inspiração / Inspiration
+https://github.com/faelcanalha/imgui_animation
+###
+
+
 
 
 ## Fade Anim Example
